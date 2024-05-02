@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="dups" src="https://raw.githubusercontent.com/notPlancha/dups-cli/master/dups-h.png" />
+	<img alt="dups" src="https://raw.githubusercontent.com/notPlancha/dups/master/dups-h.png" />
 </p>
 
 
@@ -13,7 +13,7 @@ Download binaries:
 
 To use in a go project:
 ```
-go get github.com/notPlancha/dups-cli
+go get github.com/notPlancha/dups
 ```
 
 ### Usage
@@ -63,7 +63,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/notPlancha/dups-cli"
+	"github.com/notPlancha/dups"
 )
 
 func main()  {
@@ -109,5 +109,5 @@ License
 [Apache][2]
 
 
-[1]: https://github.com/notPlancha/dups-cli/releases
-[2]: https://github.com/notPlancha/dups-cli/blob/master/LICENSE
+[1]: https://github.com/notPlancha/dups/releases
+[2]: https://github.com/notPlancha/dups/blob/master/LICENSE

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/notPlancha/dups-cli/cmd"
+	"github.com/notPlancha/dups/cmd"
 )
 
 func main() {

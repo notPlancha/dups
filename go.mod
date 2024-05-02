@@ -1,4 +1,4 @@
-module github.com/notPlancha/dups-cli
+module github.com/notPlancha/dups
 
 go 1.22.2
 

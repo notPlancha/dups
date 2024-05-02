@@ -24,7 +24,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/notPlancha/dups-cli/dups"
+	"github.com/notPlancha/dups/dups"
 )
 
 var scanCmd = &cobra.Command{

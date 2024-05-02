@@ -20,7 +20,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/notPlancha/dups-cli/dups"
+	"github.com/notPlancha/dups/dups"
 	"github.com/spf13/cobra"
 )
 

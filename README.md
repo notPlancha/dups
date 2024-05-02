@@ -1,3 +1,12 @@
+# Fork comment
+This fork is designed to make it possible to install and use the dups cli direclty with 
+```
+go install github.com/notPlancha/dups@latest
+dups -h
+```
+I have not tested using it in a go project, I just wanted a neat tool. Enjoy the rest of the deps-cli.
+
+
 <p align="center">
 	<img alt="dups" src="https://raw.githubusercontent.com/notPlancha/dups/master/dups-h.png" />
 </p>
